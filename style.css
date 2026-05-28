@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+header{
+    background-color: antiquewhite;
+    max-width: 800px;
+    align-items: center;
+    padding: 16px;
+    text-align: center;
+    color: black;
+}
